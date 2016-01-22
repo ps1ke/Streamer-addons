@@ -1,0 +1,5 @@
+Remove the "#" if you want the selected artwork. DO NOT DELETE ANY LANE!!!
+nameSong
+artistName
+albumName
+albumArtwork
