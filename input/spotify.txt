@@ -1,4 +1,4 @@
-Remove the "#" if you want the selected artwork. DO NOT DELETE ANY LANE!!!
+#Remove the "#" if you want the selected artwork. DO NOT DELETE ANY LANE!!! Double click on "currentSong.py" and that's it!
 nameSong
 artistName
 albumName
